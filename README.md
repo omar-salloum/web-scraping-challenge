@@ -7,7 +7,7 @@ This project involves scraping information from the Mars News website and analyz
 ## Components
 
 ### 1. Scrape Titles and Preview Text from Mars News
-- In `part_1_mars_news.ipynb`, use automated browsing to visit the [Mars News site](#).
+- In `part_1_mars_news.ipynb`, use automated browsing to visit the [Mars News site](https://static.bc-edx.com/data/web/mars_news/index.html).
 - Utilize Beautiful Soup to create a soup object and extract text elements.
 - Extract and store titles and preview text of news articles in Python dictionaries.
 - Print the list of dictionaries in the notebook.
